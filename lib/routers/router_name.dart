@@ -1,0 +1,71 @@
+class RouterPath {
+  static const String login = '/login';
+  static const String register = '/register';
+  static const String forgotPassword = '/forgot-password';
+  static const String resetPassword = '/reset-password';
+  static const String chooseLanguage = '/choose-language';
+  static const String home = '/home';
+  static const String discover = '/discover';
+  static const String trade = '/trade';
+  static const String earn = '/earn';
+  static const String assets = '/assets';
+  static const String assetDetail = 'asset-detail';
+  static const String deposit = '/deposit';
+
+  static const String settings = '/settings';
+  static const String search = '/search';
+  static const String announcements = '/announcements';
+  static const String articleDetail = '/article-detail';
+  static const String profile = '/profile';
+  static const String accountSecurity = '/account-security';
+  static const String orderPortal = '/order_portal';
+  static const String inviteFriend = '/invite-friend';
+  static const String language = "/language";
+  static const String infomation = "/infomation";
+  static const String record = "/record";
+  static const String withdraw = '/withdraw';
+  static const String withdraw_earn = '/withdraw_earn';
+  static const String transaction = '/transaction';
+  static const String cryptoDetail = '/crypto-detail';
+  static const String assetFee = '/asset-fee';
+  static const String splash = '/splash';
+  static const String myApiKey = '/my-api-key';
+  static const String detailApiKey = '/detail-api-key';
+  static const String stake = '/stake';
+  static const String stakeRecord = '/stake-record';
+}
+
+class RouterName {
+  static const String splash = 'splash';
+  static const String login = 'login';
+  static const String register = 'register';
+  static const String forgotPassword = 'forgot-password';
+  static const String resetPassword = 'reset-password';
+  static const String chooseLanguage = 'choose-language';
+  static const String home = 'home';
+  static const String discover = 'discover';
+  static const String trade = 'trade';
+  static const String orderPortal = 'orderPortal';
+  static const String earn = 'earn';
+  static const String assets = 'assets';
+  static const String assetDetail = 'asset-detail';
+  static const String settings = 'settings';
+  static const String search = 'search';
+  static const String announcements = 'announcements';
+  static const String articleDetail = 'article-detail';
+  static const String profile = 'profile';
+  static const String accountSecurity = 'account-security';
+  static const String inviteFriend = 'invite-friend';
+  static const String infomation = "infomation";
+  static const String record = "record";
+  static const String withdraw = 'withdraw';
+  static const String withdraw_earn = 'withdraw_earn';
+  static const String transaction = 'transaction';
+  static const String cryptoDetail = 'crypto-detail';
+  static const String language = 'language';
+  static const String assetFee = 'asset-fee';
+  static const String myApiKey = 'my-api-key';
+  static const String detailApiKey = 'detail-api-key';
+  static const String stake = 'stake';
+  static const String stakeRecord = 'stake-record';
+}
