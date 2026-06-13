@@ -259,7 +259,6 @@ DerivedData/
 .env
 devtools_options.yaml
 .dart_tool
-README.md
 .lh/
 .github
 .flutter-plugins-dependencies
