@@ -2,6 +2,8 @@
 
 Alpha is a Flutter application for a digital asset platform. The app includes authentication, market data, trading, wallet assets, deposits, withdrawals, staking, earn products, referrals, announcements, profile management, localization, and real-time socket features.
 
+https://github.com/user-attachments/assets/7a254efe-5818-49b8-9590-7b036414bd73
+
 ## Tech Stack
 
 - Flutter with Dart SDK `^3.8.1`
